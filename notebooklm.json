@@ -2,9 +2,9 @@
   "version": 1,
   "rules": [
     {
-      "domain_suffix": [
-        ".notebooklm.google",
-        ".notebooklm.google.com"
+      "domain": [
+        "notebooklm.google",
+        "notebooklm.google.com"
       ]
     }
   ]
